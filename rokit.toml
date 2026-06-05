@@ -1,0 +1,3 @@
+# rokit.toml - pins the exact Rojo version so the laptop matches this project
+[tools]
+rojo = "rojo-rbx/rojo@7.5.1"
